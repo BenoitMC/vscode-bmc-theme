@@ -1981,7 +1981,7 @@
     "editorCursor.background": "#000000",
     "editor.selectionBackground": "#555555",
     "editor.inactiveSelectionBackground": "#3a3d41",
-    "editorWhitespace.foreground": "#e3e4e229",
+    "editorWhitespace.foreground": "#555555",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editor.selectionHighlightBorder": "#495F77",
     "editor.findMatchBackground": "#515c6a",
