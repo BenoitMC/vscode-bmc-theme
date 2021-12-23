@@ -1,0 +1,28 @@
+{
+	"name": "bmc-theme",
+	"displayName": "BMC Theme",
+	"description": "BMC Theme",
+	"version": "1.0.0",
+	"publisher": "bmc",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"atom",
+		"theme",
+		"dark",
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "BMC",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BMC.json"
+			}
+		]
+	}
+}
