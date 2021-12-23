@@ -1885,6 +1885,26 @@
       "settings": {
         "foreground": "#cc99ff"
       }
+    },
+    {
+      "name": "html/css atag",
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#ff3333"
+      }
+    },
+    {
+      "name": "html/css id/class",
+      "scope": [
+        "entity.other.attribute-name.id.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#00CC00"
+      }
     }
   ],
   "colors": {
