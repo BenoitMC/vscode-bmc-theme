@@ -12,9 +12,8 @@
 		"Themes"
 	],
 	"keywords": [
-		"atom",
 		"theme",
-		"dark",
+		"dark"
 	],
 	"contributes": {
 		"themes": [
